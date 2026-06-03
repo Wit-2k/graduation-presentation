@@ -8,4 +8,5 @@ components.d.ts
 
 DEPLOY.md
 GUIDE.md
-README.md
+
+*.png
