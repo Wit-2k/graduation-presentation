@@ -10,3 +10,7 @@ DEPLOY.md
 GUIDE.md
 
 *.png
+
+.agents/
+
+*.example
