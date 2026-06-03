@@ -3,7 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build --base /graduation-presentation/ --router-mode hash && node ./scripts/use-github-pages-404.mjs",
+    "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export"
   },
