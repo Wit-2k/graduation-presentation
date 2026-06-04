@@ -4,12 +4,11 @@ dist
 offline-caddy
 offline-caddy.zip
 *.local
+.vercel
+.netlify
 .vite-inspect
 .remote-assets
 components.d.ts
-
-DEPLOY.md
-GUIDE.md
 
 .agents/
 
