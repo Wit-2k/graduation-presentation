@@ -9,8 +9,6 @@ components.d.ts
 DEPLOY.md
 GUIDE.md
 
-*.png
-
 .agents/
 
 *.example
