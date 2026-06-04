@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 型号匹配.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="4.35097in" height="2.86475in" viewBox="0 0 313.27 206.262" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st12">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;font-family:Calibri;font-size:0.666664em}
+		.st3 {font-size:1em}
+		.st4 {marker-end:url(#mrkr4-11);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.2376}
+		.st5 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.086161879895561}
+		.st6 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st7 {fill:#000000;font-family:黑体;font-size:0.666664em}
+		.st8 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st9 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st10 {fill:#ee0000;font-family:Calibri;font-size:0.666664em}
+		.st11 {font-size:1em;text-decoration:underline}
+		.st12 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-11" class="st5" refX="-23.212121212121" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-11.606060606061,-11.606060606061) "/>
+		</marker>
+	</defs>
+	<g>
+		<title>页-1</title>
+		<g id="shape1-1" transform="translate(51.1152,-120.281)">
+			<title>流程</title>
+			<desc>25A (0.9851) MIME (0.6989) N74LS138N (0.9858)</desc>
+			<rect x="0" y="163.742" width="92.126" height="42.5197" class="st1"/>
+			<text x="25.22" y="177.8" class="st2">25A (0.9851) <tspan x="21.79" dy="1.2em" class="st3">MIME (0.6989) </tspan><tspan
+						x="12.77" dy="1.2em" class="st3">N74LS138N (0.9858)</tspan></text>		</g>
+		<g id="shape3-6" transform="translate(143.241,-134.454)">
+			<title>动态连接线</title>
+			<desc>拼接</desc>
+			<path d="M0 199.18 L50.04 199.18" class="st4"/>
+			<rect x="19.7796" y="193.85" width="15.9999" height="10.6501" class="st6"/>
+			<text x="19.78" y="201.84" class="st7">拼接</text>		</g>
+		<g id="shape2-14" transform="translate(198.8,-120.281)">
+			<title>流程.2</title>
+			<desc>25AMIMEN74LS138N</desc>
+			<rect x="0" y="163.742" width="85.748" height="42.5197" class="st1"/>
+			<text x="7.88" y="187.4" class="st2">25AMIMEN74LS138N</text>		</g>
+		<g id="shape4-17" transform="translate(42.8947,-165.351)">
+			<title>工作表.4</title>
+			<desc>原始文本</desc>
+			<rect x="0" y="194.073" width="37.9843" height="12.189" class="st8"/>
+			<text x="2.99" y="202.83" class="st7">原始文本</text>		</g>
+		<g id="shape6-20" transform="translate(234.588,-120.281)">
+			<title>动态连接线.6</title>
+			<desc>正则匹配</desc>
+			<path d="M7.09 206.26 L7.09 249.79" class="st4"/>
+			<rect x="-8.91322" y="225.457" width="31.9999" height="10.6501" class="st9"/>
+			<text x="-8.91" y="233.44" class="st7">正则匹配</text>		</g>
+		<g id="shape5-27" transform="translate(206.241,-28.7215)">
+			<title>流程.5</title>
+			<desc>74LS138</desc>
+			<rect x="0" y="163.742" width="70.8661" height="42.5197" class="st1"/>
+			<text x="21.78" y="187.4" class="st10"><tspan class="st11">74LS138</tspan></text>		</g>
+		<g id="shape8-31" transform="translate(206.241,-42.8947)">
+			<title>动态连接线.8</title>
+			<desc>标准化输出</desc>
+			<path d="M0 199.18 L-101.14 199.18" class="st4"/>
+			<rect x="-73.3266" y="193.85" width="39.9998" height="10.6501" class="st6"/>
+			<text x="-73.33" y="201.84" class="st7">标准化输出</text>		</g>
+		<g id="shape7-38" transform="translate(28.7215,-28.7215)">
+			<title>流程.7</title>
+			<desc>SN74LS138N</desc>
+			<rect x="0" y="163.742" width="70.8661" height="42.5197" class="st1"/>
+			<text x="14.77" y="187.4" class="st2">SN74LS138N</text>		</g>
+	</g>
+</svg>

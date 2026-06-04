@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 帧差计算.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="5.57128in" height="6.34925in" viewBox="0 0 401.132 457.146" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st9">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;font-family:黑体;font-size:0.666664em}
+		.st3 {marker-end:url(#mrkr4-9);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.2376}
+		.st4 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.086161879895561}
+		.st5 {font-size:1em}
+		.st6 {font-family:Calibri;font-size:1em}
+		.st7 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st8 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-9" class="st4" refX="-23.212121212121" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-11.606060606061,-11.606060606061) "/>
+		</marker>
+	</defs>
+	<g>
+		<title>页-1</title>
+		<g id="shape1-1" transform="translate(56.6929,-385.904)">
+			<title>流程</title>
+			<desc>实时视频抽帧</desc>
+			<rect x="0" y="414.626" width="70.8661" height="42.5197" class="st1"/>
+			<text x="11.43" y="438.55" class="st2">实时视频抽帧</text>		</g>
+		<g id="shape3-4" transform="translate(127.559,-400.078)">
+			<title>动态连接线</title>
+			<path d="M0 450.06 L37 450.06" class="st3"/>
+		</g>
+		<g id="shape2-10" transform="translate(170.079,-385.904)">
+			<title>流程.2</title>
+			<desc>图像预处理 降采样 · 灰度化</desc>
+			<rect x="0" y="414.626" width="76.5354" height="42.5197" class="st1"/>
+			<text x="18.27" y="433.22" class="st2">图像预处理 <tspan x="11.45" dy="1.331em" class="st5">降采样</tspan><tspan class="st6"> </tspan><tspan
+						class="st6">· </tspan>灰度化</text>		</g>
+		<g id="shape5-16" transform="translate(246.614,-407.164)">
+			<title>动态连接线.5</title>
+			<path d="M0 457.15 L21.26 457.15 L21.26 528.58 L-33.33 528.58" class="st3"/>
+		</g>
+		<g id="shape4-21" transform="translate(96.2923,-314.468)">
+			<title>流程.4</title>
+			<desc>双指标帧差计算 平均亮度差 · 显著变化比例</desc>
+			<rect x="0" y="414.626" width="111.472" height="42.5197" class="st1"/>
+			<text x="27.74" y="433.22" class="st2">双指标帧差计算 <tspan x="8.92" dy="1.331em" class="st5">平均亮度差</tspan><tspan class="st6"> </tspan><tspan
+						class="st6">· </tspan>显著变化比例</text>		</g>
+		<g id="shape12-27" transform="translate(144.942,-314.468)">
+			<title>动态连接线.12</title>
+			<path d="M7.09 457.15 L7.09 487.93" class="st3"/>
+		</g>
+		<g id="shape11-32" transform="translate(105.824,-235.651)">
+			<title>判定</title>
+			<desc>画面稳定</desc>
+			<path d="M0 435.89 L46.2 414.63 L92.41 435.89 L46.2 457.15 L0 435.89 Z" class="st1"/>
+			<text x="26.2" y="438.55" class="st2">画面稳定？</text>		</g>
+		<g id="shape16-35" transform="translate(198.233,-256.91)">
+			<title>动态连接线.16</title>
+			<desc>是</desc>
+			<path d="M0 457.15 L45.63 457.15 L45.63 483.82" class="st3"/>
+			<rect x="17.8267" y="451.821" width="7.99997" height="10.6501" class="st7"/>
+			<text x="17.83" y="459.81" class="st2">是</text>		</g>
+		<g id="shape15-42" transform="translate(180.788,-182.206)">
+			<title>判定.15</title>
+			<desc>上轮结果全部匹配</desc>
+			<path d="M0 435.89 L63.07 414.63 L126.14 435.89 L63.07 457.15 L0 435.89 Z" class="st1"/>
+			<text x="27.07" y="438.55" class="st2">上轮结果全部匹配？</text>		</g>
+		<g id="shape18-45" transform="translate(105.824,-256.91)">
+			<title>动态连接线.18</title>
+			<desc>否</desc>
+			<path d="M0 457.15 L-30.9 457.15 L-30.9 555.1" class="st3"/>
+			<rect x="-34.0473" y="473.055" width="7.99997" height="10.6501" class="st8"/>
+			<text x="-34.05" y="481.04" class="st2">否</text>		</g>
+		<g id="shape17-52" transform="translate(28.7215,-110.926)">
+			<title>流程.17</title>
+			<desc>执行后端识别 分割 · 增强 · OCR · 匹配</desc>
+			<rect x="0" y="414.626" width="92.4095" height="42.5197" class="st1"/>
+			<text x="22.2" y="433.22" class="st2">执行后端识别 <tspan x="6.8" dy="1.331em" class="st5">分割</tspan><tspan class="st6"> </tspan><tspan
+						class="st6">· </tspan>增强<tspan class="st6"> </tspan><tspan class="st6">· OCR · </tspan>匹配</text>		</g>
+		<g id="shape19-60" transform="translate(180.788,-203.466)">
+			<title>动态连接线.19</title>
+			<desc>否</desc>
+			<path d="M0 457.15 L-105.86 457.15 L-105.86 501.65" class="st3"/>
+			<rect x="-51.0951" y="451.384" width="7.99997" height="10.6501" class="st8"/>
+			<text x="-51.1" y="459.37" class="st2">否</text>		</g>
+		<g id="shape21-67" transform="translate(306.93,-203.466)">
+			<title>动态连接线.21</title>
+			<desc>是</desc>
+			<path d="M0 457.15 L30.05 457.15 L30.05 501.65" class="st3"/>
+			<rect x="26.0472" y="461.807" width="7.99997" height="10.6501" class="st8"/>
+			<text x="26.05" y="469.79" class="st2">是</text>		</g>
+		<g id="shape20-74" transform="translate(301.544,-110.926)">
+			<title>流程.20</title>
+			<desc>复用历史结果 跳过耗时计算</desc>
+			<rect x="0" y="414.626" width="70.8661" height="42.5197" class="st1"/>
+			<text x="11.43" y="433.22" class="st2">复用历史结果 <tspan x="11.43" dy="1.331em" class="st5">跳过耗时计算</tspan></text>		</g>
+		<g id="shape22-78" transform="translate(170.454,-28.7215)">
+			<title>流程.22</title>
+			<desc>更新并显示结果</desc>
+			<rect x="0" y="414.626" width="70.8661" height="42.5197" class="st1"/>
+			<text x="7.43" y="438.55" class="st2">更新并显示结果</text>		</g>
+		<g id="shape23-81" transform="translate(74.9262,-110.926)">
+			<title>动态连接线.23</title>
+			<path d="M0 457.15 L0 475.57 L130.96 475.57 L130.96 491.32" class="st3"/>
+		</g>
+		<g id="shape24-86" transform="translate(336.977,-110.926)">
+			<title>动态连接线.24</title>
+			<path d="M0 457.15 L0 475.57 L-131.09 475.57 L-131.09 491.32" class="st3"/>
+		</g>
+	</g>
+</svg>

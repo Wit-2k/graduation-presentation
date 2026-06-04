@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="122.42mm"
+   height="95.150002mm"
+   id="svg50"
+   sodipodi:docname="分割流程图.emf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview50"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 12.792077,1.269685   L 12.792077,35.83686   L 125.09572,35.83686   L 125.09572,1.269685   L 12.792077,1.269685   z "
+     id="path1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76181102px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 12.792077,35.83686   L 125.09572,35.83686   L 125.09572,1.269685   L 12.792077,1.269685   L 12.792077,35.83686   z "
+     id="path2" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,32.620103,21.503864)"
+     x="0.000000"
+     y="0.000000"
+     id="text3"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan3"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan2">输入浏览器抽出的帧</tspan></tspan></text>
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 1.269685,62.246309   L 1.269685,96.813484   L 136.61811,96.813484   L 136.61811,62.246309   L 1.269685,62.246309   z "
+     id="path3" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76181102px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 1.269685,96.813484   L 136.61811,96.813484   L 136.61811,62.246309   L 1.269685,62.246309   L 1.269685,96.813484   z "
+     id="path4" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,36.683079,82.476970)"
+     x="0.000000"
+     y="0.000000"
+     id="text5"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan5"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan4">灰度化与图像增强</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25393701px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 68.943898,35.83686   L 68.943898,57.358022  "
+     id="path5" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 71.737205,56.659695   L 68.943898,62.246309   L 66.150591,56.659695   L 71.737205,56.659695   z "
+     id="path6" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 1.269685,123.22293   L 1.269685,157.79011   L 136.61811,157.79011   L 136.61811,123.22293   L 1.269685,123.22293   z "
+     id="path7" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76181102px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 1.269685,157.79011   L 136.61811,157.79011   L 136.61811,123.22293   L 1.269685,123.22293   L 1.269685,157.79011   z "
+     id="path8" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,36.683079,143.450153)"
+     x="0.000000"
+     y="0.000000"
+     id="text9"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan9"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan8">生成多路候选掩码</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25393701px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 68.943898,96.813484   L 68.943898,118.33465  "
+     id="path9" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 71.737205,117.63632   L 68.943898,123.22293   L 66.150591,117.63632   L 71.737205,117.63632   z "
+     id="path10" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 1.269685,184.19956   L 1.269685,218.76673   L 136.61811,218.76673   L 136.61811,184.19956   L 1.269685,184.19956   z "
+     id="path11" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76181102px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 1.269685,218.76673   L 136.61811,218.76673   L 136.61811,184.19956   L 1.269685,184.19956   L 1.269685,218.76673   z "
+     id="path12" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,28.557126,204.423213)"
+     x="0.000000"
+     y="0.000000"
+     id="text13"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan13"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan12">轮廓提取与候选框生成</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25393701px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 68.943898,157.79011   L 68.943898,179.31127  "
+     id="path13" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 71.737205,178.61294   L 68.943898,184.19956   L 66.150591,178.61294   L 71.737205,178.61294   z "
+     id="path14" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 1.269685,245.17618   L 1.269685,279.74336   L 136.61811,279.74336   L 136.61811,245.17618   L 1.269685,245.17618   z "
+     id="path15" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76181102px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 1.269685,279.74336   L 136.61811,279.74336   L 136.61811,245.17618   L 1.269685,245.17618   L 1.269685,279.74336   z "
+     id="path16" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,44.809033,265.396318)"
+     x="0.000000"
+     y="0.000000"
+     id="text17"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan17"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan16">几何规则过滤</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25393701px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 68.943898,218.76673   L 68.943898,240.28789  "
+     id="path17" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 71.737205,239.58957   L 68.943898,245.17618   L 66.150591,239.58957   L 71.737205,239.58957   z "
+     id="path18" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 1.269685,306.15281   L 1.269685,340.68824   L 136.61811,340.68824   L 136.61811,306.15281   L 1.269685,306.15281   z "
+     id="path19" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76181102px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 1.269685,340.68824   L 136.61811,340.68824   L 136.61811,306.15281   L 1.269685,306.15281   L 1.269685,340.68824   z "
+     id="path20" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,44.809033,326.369440)"
+     x="0.000000"
+     y="0.000000"
+     id="text21"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan21"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan20">芯片特征评分</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25393701px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 68.943898,279.74336   L 68.943898,301.23278  "
+     id="path21" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 71.737205,300.53445   L 68.943898,306.15281   L 66.150591,300.53445   L 71.737205,300.53445   z "
+     id="path22" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 263.30094,44.470719   L 263.30094,79.037894   L 398.61762,79.037894   L 398.61762,44.470719   L 263.30094,44.470719   z "
+     id="path23" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76181102px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 263.30094,79.037894   L 398.61762,79.037894   L 398.61762,44.470719   L 263.30094,44.470719   L 263.30094,79.037894   z "
+     id="path24" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,298.698086,64.693165)"
+     x="0.000000"
+     y="0.000000"
+     id="text25"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan25"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan24">候选框去重与排序</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25393701px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 68.943898,340.68824   L 68.943898,358.30512   L 171.15354,358.30512   L 171.15354,20.854577   L 330.97515,20.854577   L 330.97515,39.582431  "
+     id="path25" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 333.76845,38.884104   L 330.97515,44.470719   L 328.1501,38.884104   L 333.76845,38.884104   z "
+     id="path26" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 263.30094,108.01845   L 263.30094,142.55389   L 398.61762,142.55389   L 398.61762,108.01845   L 263.30094,108.01845   z "
+     id="path27" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76181102px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 263.30094,142.55389   L 398.61762,142.55389   L 398.61762,108.01845   L 263.30094,108.01845   L 263.30094,142.55389   z "
+     id="path28" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,290.572133,128.229432)"
+     x="0.000000"
+     y="0.000000"
+     id="text29"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan29"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan28">旋转框定位与透视裁剪</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25393701px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 330.97515,79.037894   L 330.97515,103.09843  "
+     id="path29" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 333.76845,102.4001   L 330.97515,108.01845   L 328.1501,102.4001   L 333.76845,102.4001   z "
+     id="path30" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 197.78519,202.83219   L 197.78519,237.39936   L 305.7719,237.39936   L 305.7719,202.83219   L 197.78519,202.83219   z "
+     id="path31" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76181102px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 197.78519,237.39936   L 305.7719,237.39936   L 305.7719,202.83219   L 197.78519,202.83219   L 197.78519,237.39936   z "
+     id="path32" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,223.580578,223.053919)"
+     x="0.000000"
+     y="0.000000"
+     id="text33"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan33"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan32">输出芯片裁剪图</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25393701px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 330.97515,142.55389   L 330.97515,170.58219   L 251.77854,170.58219   L 251.77854,197.9439  "
+     id="path33" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 254.57185,197.24557   L 251.77854,202.83219   L 248.98524,197.24557   L 254.57185,197.24557   z "
+     id="path34" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 353.28986,202.83219   L 353.28986,237.39936   L 461.24483,237.39936   L 461.24483,202.83219   L 353.28986,202.83219   z "
+     id="path35" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76181102px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 353.28986,237.39936   L 461.24483,237.39936   L 461.24483,202.83219   L 353.28986,202.83219   L 353.28986,237.39936   z "
+     id="path36" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,379.061989,223.053919)"
+     x="0.000000"
+     y="0.000000"
+     id="text37"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan37"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan36">输出芯片位置框</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25393701px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 330.97515,142.55389   L 330.97515,170.96309   L 407.25148,170.96309   L 407.25148,197.9439  "
+     id="path37" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 410.07653,197.24557   L 407.25148,202.83219   L 404.45817,197.24557   L 410.07653,197.24557   z "
+     id="path38" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 197.78519,266.18947   L 197.78519,300.7249   L 305.7719,300.7249   L 305.7719,266.18947   L 197.78519,266.18947   z "
+     id="path39" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76181102px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 197.78519,300.7249   L 305.7719,300.7249   L 305.7719,266.18947   L 197.78519,266.18947   L 197.78519,300.7249   z "
+     id="path40" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,228.706900,286.398198)"
+     x="0.000000"
+     y="0.000000"
+     id="text41"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan41"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan40">送入</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,244.958806,286.398198)"
+     x="0.000000"
+     y="0.000000"
+     id="text43"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan43"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Calibri;"
+         id="tspan42">OCR</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,259.084022,286.398198)"
+     x="0.000000"
+     y="0.000000"
+     id="text45"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan45"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan44">识别</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25393701px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 251.77854,237.39936   L 251.77854,261.26944  "
+     id="path45" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 254.57185,260.57111   L 251.77854,266.18947   L 248.98524,260.57111   L 254.57185,260.57111   z "
+     id="path46" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 353.28986,266.18947   L 353.28986,300.7249   L 461.24483,300.7249   L 461.24483,266.18947   L 353.28986,266.18947   z "
+     id="path47" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76181102px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 353.28986,300.7249   L 461.24483,300.7249   L 461.24483,266.18947   L 353.28986,266.18947   L 353.28986,300.7249   z "
+     id="path48" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,374.999152,286.398198)"
+     x="0.000000"
+     y="0.000000"
+     id="text49"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan49"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan48">于页面绘制识别框</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25393701px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 407.25148,237.39936   L 407.25148,261.26944  "
+     id="path49" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 410.07653,260.57111   L 407.25148,266.18947   L 404.45817,260.57111   L 410.07653,260.57111   z "
+     id="path50" />
+</svg>

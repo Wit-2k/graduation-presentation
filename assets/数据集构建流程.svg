@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="71.230003mm"
+   height="67.199997mm"
+   id="svg39"
+   sodipodi:docname="数据集构建流程.emf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview39"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 23.870079,14.950541   L 23.870079,58.151575   L 95.86122,58.151575   L 95.86122,14.950541   L 23.870079,14.950541   z "
+     id="path1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76181102px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 23.870079,58.151575   L 95.86122,58.151575   L 95.86122,14.950541   L 23.870079,14.950541   L 23.870079,58.151575   z "
+     id="path2" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,51.986023,39.496248)"
+     x="0.000000"
+     y="0.000000"
+     id="text3"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan3"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan2">拍摄</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25393701px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 59.86565,58.151575   L 59.86565,96.432579  "
+     id="path3" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 62.658957,95.734252   L 59.86565,101.32087   L 57.072343,95.734252   L 62.658957,95.734252   z "
+     id="path4" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 1.269685,101.32087   L 1.269685,144.5219   L 118.46161,144.5219   L 118.46161,101.32087   L 1.269685,101.32087   z "
+     id="path5" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76181102px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 1.269685,144.5219   L 118.46161,144.5219   L 118.46161,101.32087   L 1.269685,101.32087   L 1.269685,144.5219   z "
+     id="path6" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,12.334513,125.874811)"
+     x="0.000000"
+     y="0.000000"
+     id="text7"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan7"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan6">手工标注</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,44.838326,125.874811)"
+     x="0.000000"
+     y="0.000000"
+     id="text9"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan9"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan8">（</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,52.964279,125.874811)"
+     x="0.000000"
+     y="0.000000"
+     id="text11"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan11"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Calibri;"
+         id="tspan10">X</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,57.181952,125.874811)"
+     x="0.000000"
+     y="0.000000"
+     id="text13"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan13"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Calibri;"
+         id="tspan12">-</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,59.669648,125.874811)"
+     x="0.000000"
+     y="0.000000"
+     id="text15"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan15"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Calibri;"
+         id="tspan14">AnyLabeling</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,99.763208,125.874811)"
+     x="0.000000"
+     y="0.000000"
+     id="text17"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan17"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan16">）</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25393701px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 59.86565,144.5219   L 59.86565,182.8029  "
+     id="path17" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 62.658957,182.10458   L 59.86565,187.72293   L 57.072343,182.10458   L 62.658957,182.10458   z "
+     id="path18" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 3.9995079,187.72293   L 3.9995079,230.89222   L 115.73179,230.89222   L 115.73179,187.72293   L 3.9995079,187.72293   z "
+     id="path19" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76181102px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 3.9995079,230.89222   L 115.73179,230.89222   L 115.73179,187.72293   L 3.9995079,187.72293   L 3.9995079,230.89222   z "
+     id="path20" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,19.888864,212.253397)"
+     x="0.000000"
+     y="0.000000"
+     id="text21"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan21"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan20">图像增强</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,52.392677,212.253397)"
+     x="0.000000"
+     y="0.000000"
+     id="text23"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan23"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan22">（</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,60.518630,212.253397)"
+     x="0.000000"
+     y="0.000000"
+     id="text25"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan25"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Calibri;"
+         id="tspan24">Roboflow</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,92.208931,212.253397)"
+     x="0.000000"
+     y="0.000000"
+     id="text27"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan27"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan26">）</tspan></tspan></text>
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 195.62672,22.632136   L 195.62672,65.801427   L 267.61786,65.801427   L 267.61786,22.632136   L 195.62672,22.632136   z "
+     id="path27" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76181102px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 195.62672,65.801427   L 267.61786,65.801427   L 267.61786,22.632136   L 195.62672,22.632136   L 195.62672,65.801427   z "
+     id="path28" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,223.740528,47.157241)"
+     x="0.000000"
+     y="0.000000"
+     id="text29"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan29"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan28">训练</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25393701px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 59.86565,230.89222   L 59.86565,252.50861   L 150.64813,252.50861   L 150.64813,1.015748   L 231.62229,1.015748   L 231.62229,17.712106  "
+     id="path29" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 234.4156,17.01378   L 231.62229,22.632136   L 228.82899,17.01378   L 234.4156,17.01378   z "
+     id="path30" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 195.62672,109.00246   L 195.62672,152.17175   L 267.61786,152.17175   L 267.61786,109.00246   L 195.62672,109.00246   z "
+     id="path31" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76181102px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 195.62672,152.17175   L 267.61786,152.17175   L 267.61786,109.00246   L 195.62672,109.00246   L 195.62672,152.17175   z "
+     id="path32" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,215.614575,133.535807)"
+     x="0.000000"
+     y="0.000000"
+     id="text33"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan33"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan32">记录指标</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25393701px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 231.62229,65.801427   L 231.62229,104.08243  "
+     id="path33" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 234.4156,103.3841   L 231.62229,109.00246   L 228.82899,103.3841   L 234.4156,103.3841   z "
+     id="path34" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25393701px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 231.62229,152.17175   L 231.62229,190.4845  "
+     id="path35" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 234.4156,189.78617   L 231.62229,195.37279   L 228.82899,189.78617   L 234.4156,189.78617   z "
+     id="path36" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 195.62672,195.37279   L 195.62672,238.57382   L 267.61786,238.57382   L 267.61786,195.37279   L 195.62672,195.37279   z "
+     id="path37" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76181102px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 195.62672,238.57382   L 267.61786,238.57382   L 267.61786,195.37279   L 195.62672,195.37279   L 195.62672,238.57382   z "
+     id="path38" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:黑体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,215.614575,219.914378)"
+     x="0.000000"
+     y="0.000000"
+     id="text39"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan39"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.125000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:黑体;"
+         id="tspan38">验证效果</tspan></tspan></text>
+</svg>
