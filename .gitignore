@@ -14,3 +14,7 @@ GUIDE.md
 .agents/
 
 *.example
+
+*.pdf
+
+assets/
