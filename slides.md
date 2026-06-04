@@ -4,6 +4,15 @@ theme: default
 title: 基于图像识别的数字实验芯片型号自动识别技术研究
 info: |
   毕业设计答辩演示稿。
+# 默认 Slidev favicon 指向 CDN；本地 favicon 可以避免离线包出现外链。
+favicon: /favicon.svg
+# 本稿没有 PlantUML 图；置空默认渲染服务，避免离线包携带无用远端地址。
+plantUmlServer: ""
+# 离线演示包不能依赖 Google Fonts；这里使用系统字体，保证 Caddy 本地启动后断网也能渲染。
+fonts:
+  provider: none
+  sans: Arial
+  mono: Consolas
 # 固定画布内边距，保证长中文标题和后续图表占位都落在 16:9 导出的安全区域内。
 class: px-16 py-10
 # 答辩场景以信息推进为主，统一转场可以避免技术章节之间出现多余的视觉噪声。

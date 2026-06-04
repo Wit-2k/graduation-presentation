@@ -1,6 +1,8 @@
 node_modules
 .DS_Store
 dist
+offline-caddy
+offline-caddy.zip
 *.local
 .vite-inspect
 .remote-assets

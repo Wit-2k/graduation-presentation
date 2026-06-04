@@ -1,0 +1,11 @@
+{
+	admin off
+	auto_https off
+}
+
+http://127.0.0.1:{$PORT:8787} {
+	root * ./site
+	# History-mode Slidev routes such as /8 must fall back to the SPA entry.
+	try_files {path} /index.html
+	file_server
+}
