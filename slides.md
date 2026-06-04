@@ -664,7 +664,7 @@ title: 总结与展望
 <p class="text-sm tracking-widest text-violet-700">总结与展望</p>
 <h1 class="mt-3 text-[40px] leading-tight font-semibold text-slate-900">本文完成了从视觉定位到标准输出的闭环</h1>
 
-<div class="mt-7 grid grid-cols-2 gap-12 items-start">
+<div class="mt-10 grid grid-cols-2 gap-12 items-start">
 <div class="text-[20px] leading-8 text-slate-800">
 
 ### 主要工作
