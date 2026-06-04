@@ -45,6 +45,9 @@ mdc: true
 title: 目录
 ---
 
+<!-- 页码使用绝对定位，是为了在不同页面的网格、图表和补充按钮变化后仍保持统一位置。 -->
+<div class="absolute right-8 top-6 text-[12px] leading-none text-slate-400">02</div>
+
 <!-- 目录采用五列提纲，是为了在单页 16:9 画布内完整露出全部章节，避免纵向目录在预览时裁掉最后一节。 -->
 <h1 class="text-[42px] leading-tight font-semibold text-slate-900">汇报目录</h1>
 
@@ -92,6 +95,8 @@ title: 目录
 title: 研究背景
 ---
 
+<div class="absolute right-8 top-6 text-[12px] leading-none text-slate-400">03</div>
+
 <!-- 正文页统一使用可控两栏网格：左侧保持简短阅读路径，右侧预留稳定的后续图表替换区域。 -->
 <p class="text-sm tracking-widest text-sky-700">研究背景</p>
 <h1 class="mt-3 text-[40px] leading-tight font-semibold text-slate-900">人工分拣的瓶颈来自小字符与复杂现场</h1>
@@ -120,6 +125,8 @@ title: 研究背景
 ---
 title: 方案探索
 ---
+
+<div class="absolute right-8 top-6 text-[12px] leading-none text-slate-400">04</div>
 
 <p class="text-sm tracking-widest text-emerald-700">方案探索</p>
 <!-- 方案页保留到漏检补充页的跳转，是为了答辩追问时能快速展开失败样例。 -->
@@ -240,6 +247,8 @@ title: 方案探索
 ---
 title: 技术选型
 ---
+
+<div class="absolute right-8 top-6 text-[12px] leading-none text-slate-400">05</div>
 
 <p class="text-sm tracking-widest text-emerald-700">技术选型</p>
 <h1 class="mt-3 text-[40px] leading-tight font-semibold text-slate-900">轻量 OCR 与 OpenVINO 兼顾本地部署和低延迟</h1>
@@ -385,6 +394,8 @@ title: 技术选型
 title: 系统设计
 ---
 
+<div class="absolute right-8 top-6 text-[12px] leading-none text-slate-400">06</div>
+
 <p class="text-sm tracking-widest text-amber-600">系统设计</p>
 <h1 class="mt-3 text-[40px] leading-tight font-semibold text-slate-900">系统被拆成采集、定位、识别、规则匹配四段</h1>
 
@@ -411,6 +422,8 @@ title: 系统设计
 ---
 title: 核心机制 01
 ---
+
+<div class="absolute right-8 top-6 text-[12px] leading-none text-slate-400">07</div>
 
 <p class="text-sm tracking-widest text-amber-600">核心机制 01</p>
 <h1 class="mt-3 text-[40px] leading-tight font-semibold text-slate-900">帧差计算可以减少推理次数</h1>
@@ -442,6 +455,8 @@ title: 核心机制 01
 title: 核心机制 02
 ---
 
+<div class="absolute right-8 top-6 text-[12px] leading-none text-slate-400">08</div>
+
 <p class="text-sm tracking-widest text-amber-600">核心机制 02</p>
 <!-- 卡片页保留流程图入口，是为了先讲定位分割的四个判断动作，再按需展开完整流程。 -->
 <div class="mt-3 flex items-start justify-between gap-6">
@@ -471,6 +486,8 @@ title: 核心机制 02
 ---
 title: 核心机制 03
 ---
+
+<div class="absolute right-8 top-6 text-[12px] leading-none text-slate-400">09</div>
 
 <p class="text-sm tracking-widest text-amber-600">核心机制 03</p>
 <div class="mt-3 flex items-start justify-between gap-6">
@@ -504,6 +521,8 @@ title: 核心机制 03
 title: 核心机制 04
 ---
 
+<div class="absolute right-8 top-6 text-[12px] leading-none text-slate-400">10</div>
+
 <p class="text-sm tracking-widest text-amber-600">核心机制 04</p>
 <h1 class="mt-3 text-[40px] leading-tight font-semibold text-slate-900">规则库把 OCR 文本收敛为标准型号</h1>
 
@@ -528,6 +547,8 @@ title: 核心机制 04
 ---
 title: 实验结果
 ---
+
+<div class="absolute right-8 top-6 text-[12px] leading-none text-slate-400">11</div>
 
 <p class="text-sm tracking-widest text-rose-600">实验结果</p>
 
@@ -559,6 +580,8 @@ title: 实验结果
 ---
 title: 耗时分析
 ---
+
+<div class="absolute right-8 top-6 text-[12px] leading-none text-slate-400">12</div>
 
 <p class="text-sm tracking-widest text-rose-600">耗时分析</p>
 <h1 class="mt-3 text-[40px] leading-tight font-semibold text-slate-900">帧差与缓存显著压缩后端请求量</h1>
@@ -598,6 +621,8 @@ title: 耗时分析
 title: 局限分析
 ---
 
+<div class="absolute right-8 top-6 text-[12px] leading-none text-slate-400">13</div>
+
 <p class="text-sm tracking-widest text-rose-600">局限分析</p>
 <h1 class="mt-3 text-[40px] leading-tight font-semibold text-slate-900">主要失败来自几何边界与极端成像条件</h1>
 
@@ -634,6 +659,8 @@ title: 局限分析
 title: 总结与展望
 ---
 
+<div class="absolute right-8 top-6 text-[12px] leading-none text-slate-400">14</div>
+
 <p class="text-sm tracking-widest text-violet-700">总结与展望</p>
 <h1 class="mt-3 text-[40px] leading-tight font-semibold text-slate-900">本文完成了从视觉定位到标准输出的闭环</h1>
 
@@ -669,7 +696,7 @@ class: text-center
 <h1 class="text-[48px] leading-tight font-semibold text-slate-900">谢谢各位专家</h1>
 
 <div class="mt-8 text-[24px] leading-10 text-slate-700">
-  <p>感谢董海波副教授的悉心指导。</p>
+  <p>感谢董海波老师的悉心指导。</p>
   <p>感谢电气工程学院各位老师的培养。</p>
   <p>恳请各位专家批评指正。</p>
 </div>
